@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "flappybird.data.unityweb",
+"asmCodeUrl": "flappybird.asm.code.unityweb",
+"asmMemoryUrl": "flappybird.asm.memory.unityweb",
+"asmFrameworkUrl": "flappybird.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
